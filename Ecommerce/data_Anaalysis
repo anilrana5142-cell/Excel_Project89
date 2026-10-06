@@ -1,1 +1,56 @@
+## Bakery Sales Dashboard Project Description
+
+The **Bakery Sales Dashboard** is an interactive Excel-based data analysis project designed to monitor and analyze bakery sales performance through key business metrics and visual reports.
+
+The dashboard provides a centralized view of important sales information, allowing users to quickly understand sales trends, customer behavior, product performance, weather-related sales patterns, and festival or weekday performance.
+
+### Key Features
+
+**1. KPI Summary**
+- Total Bill: ₹232,804.4
+- Waste Cost: ₹92,960.4
+- Promotion Score: 63.2
+- These KPIs provide a quick overview of the overall business performance.
+
+**2. Customer Gender Analysis**
+- A gender-wise sales section shows the distribution of sales based on customer gender.
+- Users can filter the dashboard by Female, Male, or Other customers.
+
+**3. Product-Level Analysis**
+- The Product slicer allows users to select individual bakery products such as Biscuit, Bread, Brown Bread, Butter, Cheese, Chocolate Cake, Chocolate Cookies, and others.
+- This makes it easier to analyze the performance of specific products.
+
+**4. Weather-Wise Sales Analysis**
+- The dashboard analyzes sales according to different weather conditions.
+- This helps identify whether weather conditions have an impact on bakery product sales.
+
+**5. Festival-Wise Sales Analysis**
+- A dedicated section presents sales performance during different festivals.
+- This can help businesses understand seasonal demand and plan inventory and promotions accordingly.
+
+**6. Weekday-Wise Sales Analysis**
+- Sales are presented according to different days of the week.
+- This helps identify high-performing and low-performing days and supports better staffing, inventory, and promotional decisions.
+
+**7. Interactive Filtering**
+- The dashboard uses slicers to make the analysis interactive.
+- Users can select specific genders or products and immediately analyze the corresponding sales information.
+
+### Project Objective
+
+The primary objective of this project is to **transform raw bakery sales data into an interactive and easy-to-understand business dashboard**. It demonstrates how Excel can be used for data cleaning, analysis, PivotTables, PivotCharts, slicers, KPI calculations, and dashboard design.
+
+### Skills Demonstrated
+
+- Microsoft Excel
+- Data Cleaning and Preparation
+- PivotTables
+- PivotCharts
+- Slicers
+- KPI Development
+- Sales Analysis
+- Data Visualization
+- Business Intelligence
+- Interactive Dashboard Development
+- Trend and Performance Analysis
 
