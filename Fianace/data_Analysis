@@ -1,1 +1,144 @@
+# Sales Dashboard Project Report
 
+## 1. Project Title
+
+**Interactive Sales Analysis Dashboard**
+
+## 2. Project Overview
+
+The Interactive Sales Analysis Dashboard is an Excel-based business intelligence project developed to analyze sales performance across different regions, cities, products, customer segments, and shipping classes.
+
+The dashboard converts sales data into an interactive reporting system that enables users to filter information by city and analyze important business metrics through different analytical views. It is designed to help management understand sales distribution, product performance, regional performance, and shipping-class performance.
+
+## 3. Project Objective
+
+The primary objective of this project is to analyze sales data and provide meaningful business insights through an interactive Excel dashboard.
+
+The dashboard aims to:
+
+- Monitor overall sales performance.
+- Compare sales across different regions.
+- Analyze product-wise sales.
+- Identify high-performing and low-performing product categories.
+- Analyze sales according to shipping class.
+- Compare sales across different states.
+- Provide city-level filtering for detailed analysis.
+- Present complex sales data in an easy-to-understand format.
+
+## 4. Dashboard Components
+
+### City Filter
+
+The dashboard contains an interactive City filter that allows users to select individual cities from the available dataset.
+
+This functionality enables users to perform location-specific analysis and understand how sales performance changes across different cities.
+
+### Regional Sales Analysis
+
+The Region Wise Sale section compares sales across four major regions:
+
+- Central
+- East
+- South
+- West
+
+The dashboard shows that the **West region has the highest sales**, followed by the East, Central, and South regions based on the displayed values.
+
+The regional analysis helps identify which geographical areas contribute most significantly to overall sales.
+
+### Product-Wise Sales Analysis
+
+The Product Wise section analyzes sales across different products and product groups.
+
+The dashboard includes categories such as:
+
+- Furniture
+- Office Supplies
+- Technology
+
+Individual products include items such as Bookcases, Chairs, Tables, Appliances, Binders, Storage, Accessories, Copiers, Machines, and Phones.
+
+This analysis helps identify products with higher sales contribution and provides useful information for inventory planning and product strategy.
+
+### Shipping-Class Analysis
+
+The dashboard analyzes sales according to different shipping classes:
+
+- First Class
+- Same Day
+- Second Class
+- Standard Class
+
+The displayed figures indicate that **Standard Class contributes the highest sales**, while Same Day represents the lowest among the four shipping classes.
+
+This analysis can help businesses evaluate their shipping patterns and understand the relationship between order volume and shipping methods.
+
+### State and Category Analysis
+
+The dashboard also provides a state-level comparison across locations including:
+
+- California
+- Florida
+- Illinois
+- Michigan
+- New York
+- Ohio
+- Pennsylvania
+- Texas
+- Virginia
+- Washington
+
+The analysis further categorizes sales according to Furniture, Office Supplies, and Technology, allowing users to compare category performance across different states.
+
+## 5. Key Insights
+
+Based on the dashboard:
+
+1. **West is the strongest-performing region** in terms of total sales.
+2. **Standard Class has the highest sales contribution** among the displayed shipping classes.
+3. Product performance varies considerably, with certain Technology and Furniture products generating substantially higher sales.
+4. The dashboard demonstrates significant differences in sales across geographical locations.
+5. City-level filtering allows the overall analysis to be narrowed down to specific markets.
+6. Technology, Furniture, and Office Supplies provide a useful category-level structure for evaluating business performance.
+7. The combination of geographical, product, and shipping analysis provides a broader understanding of the company's sales performance.
+
+## 6. Tools and Techniques Used
+
+The project demonstrates the use of several Microsoft Excel data-analysis techniques:
+
+- Microsoft Excel
+- Data Cleaning
+- Data Organization
+- PivotTables
+- PivotCharts
+- Slicers
+- Interactive Filters
+- Sales Aggregation
+- Category Analysis
+- Regional Analysis
+- Geographic Analysis
+- Shipping-Class Analysis
+- Dashboard Design
+- Data Visualization
+
+## 7. Business Benefits
+
+This dashboard can support business decision-making by providing a single interactive platform for analyzing sales information.
+
+Management can use the dashboard to:
+
+- Identify profitable regions.
+- Evaluate product performance.
+- Compare state-level sales.
+- Understand shipping-class demand.
+- Identify potential areas for improvement.
+- Support inventory planning.
+- Develop regional sales strategies.
+- Monitor category performance.
+- Make data-driven business decisions.
+
+## 8. Conclusion
+
+The Interactive Sales Analysis Dashboard demonstrates how Excel can be used to transform raw sales data into a structured business reporting solution.
+
+By combining interactive city filtering with regional, product, shipping, state, and category-level analysis, the dashboard provides a comprehensive view of sales performance. The project also demonstrates practical knowledge of Excel-based data analysis and dashboard development, making it suitable as a **Data Analyst portfolio project**.
